@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: Arial, sans-serif;
+  font-family: Times, serif ;
 }
 
 h1 {
@@ -14,5 +14,5 @@ audio {
 .song-title {
   font-weight: bold;
   margin-top: 10px;
-  color: #FF0000;
+  color: red;
 }
