@@ -11,3 +11,7 @@ audio {
   display: block;
   margin: 20px auto;
 }
+.song-title {
+  font-weight: bold;
+  margin-top: 10px;
+}
